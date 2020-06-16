@@ -5,7 +5,7 @@ import "../styles/Navigation.css"
 const list = [
     { name: "start", path: "/", exact: true },
     { name: "produkty", path: "/products" },
-    { name: "kontakt", path: "/constact" },
+    { name: "kontakt", path: "/contact" },
     { name: "panel admin", path: "/admin" },
 
 ]
